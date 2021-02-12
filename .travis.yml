@@ -25,3 +25,6 @@ deploy:
   app: examenferlopmor1egc
   strategy: git
   apikey: $HEROKU_AUTH_TOKEN
+notifications:
+  email:
+    - ferlopmor1@alum.us.es
