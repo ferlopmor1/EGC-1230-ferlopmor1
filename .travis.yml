@@ -26,5 +26,4 @@ deploy:
   strategy: git
   apikey: $HEROKU_AUTH_TOKEN
 notifications:
-  email:
-    - ferlopmor1@alum.us.es
+  email: ferlopmor1@alum.us.es
